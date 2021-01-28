@@ -7,7 +7,7 @@ Entry Log System with Python &amp; Google Spreadsheet
 
 본 프로그램은 코로나19 시대의 행사 준비를 위해 짜여졌으며, 행사 전날 급하게 만든 관계로 예상치 못하 각종 오류와 버그가 있을 수 있습니다.
 
-기본적인 기능은 다양한 환경(Mac OS, Windows, Ubuntu) 구동됨을 확인하였습니다. (환경에 맞게 약간의 수정이 필요할 수는 있음)
+기본적인 기능은 다양한 환경(Mac OS, Windows, Ubuntu)에서 구동됨을 확인하였습니다. (환경에 맞게 약간의 수정이 필요할 수는 있음)
 
 ### 기본 세팅
 
