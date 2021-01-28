@@ -11,22 +11,24 @@ Entry Log System with Python &amp; Google Spreadsheet
 
 ### 기본 세팅
 
-1. 사용환경 셋업
+**1. 사용환경 셋업**
 
   - 구글 사용자 인증 설정이 필요하고, JSON 파일 형태의 API 키를 다운받아야합니다.
   - [여기](https://yurimkoo.github.io/python/2019/07/20/link-with-googlesheets-for-Python.html)에 자세히 설명되어 있습니다.
-  
   <br/>
-2. 패키지 설치
+  
+**2. 패키지 설치**
   - oauth2client와 gspread를 설치해줍니다.
   - ```pip3 install --upgrade oauth2client```
   - ```pip3 install gspread```
-  
   <br/>
-3. 코드 수정
+  
+**3. 코드 수정**
   - 코드의 16번째 줄과 23번째 정보를 입력해줍니다.
   - ```json_file_name = '<your file name>.json'```에 다운받은 json파일을 넣어줍니다.
   - ```spreadsheet_url = '<your URL>'```에 구글 스프레드시트 링크를 넣어줍니다.
-
 <br/>
-### 
+
+### 작동 설명
+
+- 작성중
