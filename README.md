@@ -14,7 +14,6 @@ Entry Log System with Python &amp; Google Spreadsheet
 1. 사용환경 셋업
 
   - 구글 사용자 인증 설정이 필요하고, JSON 파일 형태의 API 키를 다운받아야합니다.
-
   - [여기](https://yurimkoo.github.io/python/2019/07/20/link-with-googlesheets-for-Python.html)에 자세히 설명되어 있습니다.
   
 2. 패키지 설치
