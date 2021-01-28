@@ -31,4 +31,4 @@ Entry Log System with Python &amp; Google Spreadsheet
 
 ### 작동 설명
 
-- 작성중
+#### (ㅈ
