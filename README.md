@@ -82,7 +82,7 @@ else : #등록되지 않은 사용자:
 
 작동 동영상(썸네일 클릭시 이동)
 
-#### 참고자료
+### 참고자료
 - https://yurimkoo.github.io/python/2019/07/20/link-with-googlesheets-for-Python.html
   
 
