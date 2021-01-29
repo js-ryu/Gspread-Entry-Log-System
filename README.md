@@ -77,6 +77,7 @@ else : #등록되지 않은 사용자:
 ![IMAGE1](https://user-images.githubusercontent.com/50894726/106323775-4f133f80-62bb-11eb-99f5-3a6dfdf82ece.png)
 
 실제 행사에 사용되었던 스프레드시트 이미지
+<br/>
 
 [![VIDEO1](http://img.youtube.com/vi/SCJRPRmDiCw/0.jpg)](https://youtu.be/SCJRPRmDiCw) 
 
