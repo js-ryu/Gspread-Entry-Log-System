@@ -78,7 +78,7 @@ else : #등록되지 않은 사용자:
 
 실제 행사에 사용되었던 스프레드시트 이미지
 
-
+[![VIDEO1](http://img.youtube.com/vi/SCJRPRmDiCw/0.jpg)](https://youtu.be/SCJRPRmDiCw) 
 
 작동 동영상(썸네일 클릭시 이동)
 
